@@ -1,4 +1,3 @@
-<h1 align="center">안녕하세요</h1>
 <h3 align="center">신입 개발자 최재연입니다.</h3>
 
 <h3 align="left">Connect with me:</h3>
