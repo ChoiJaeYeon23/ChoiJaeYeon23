@@ -13,7 +13,7 @@
 
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
 <p align="center">
-  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">✉️ 이메일: wasid4598@gmail.com</a>
+  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;"> wasid4598@gmail.com</a>
 </p>
 
 
