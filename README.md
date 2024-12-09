@@ -44,5 +44,5 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2 Badge"/>
   <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="RestAPI Badge"/>
 </p>
-
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">🎉 방문해주셔서 감사합니다. 🎉</h3>
+<br>
+<h3 align="center" style="font-size: 2em; line-height: 1.8;"> 읽어주셔서 감사합니다. </h3>
