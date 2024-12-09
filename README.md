@@ -13,11 +13,11 @@
 
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
-  <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 30px; background-color: #f9f9f9;">
     <h4 style="color: #4CAF50; font-size: 1.5em; font-weight: bold;">[TeeMo](https://github.com/ChoiJaeYeon23/TeeMo)</h4>
     <p style="color: #333; font-size: 1.1em; line-height: 1.6;">비인가 객체 실시간 및 비실시간 모자이크 처리 앱 개발.</p>
   </div>
-  <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding:30px; background-color: #f9f9f9;">
     <h4 style="color: #4CAF50; font-size: 1.5em; font-weight: bold;">[DangYeon](https://github.com/ChoiJaeYeon23/DangYeon)</h4>
     <p style="color: #333; font-size: 1.1em; line-height: 1.6;">커플 앱 개발 프로젝트.</p>
   </div>
