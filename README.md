@@ -1,7 +1,6 @@
-<h2 align="center">✨ 신입 개발자 최재연 ✨</h2>
+<h2 align="center">✨ Jae-Yeon Choi ✨</h2>
 <p align="center">
-  안녕하세요! 클린 코드와 창의적인 문제 해결을 지향하는 신입 개발자입니다.<br/>
-  최신 웹 기술과 클라우드 서비스에 관심이 많으며, 지속적인 학습과 성장을 추구합니다. 🚀<br/>
+  더욱 더 성장하고싶은 신입 개발자 최재연입니다.<br/>
 </p>
 
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me:</h3>
