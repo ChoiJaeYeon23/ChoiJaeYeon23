@@ -4,17 +4,17 @@
 </p>
 
 
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me: 
-  <a href="https://instagram.com/jae__yeon__" target="blank" style="display: inline-block; margin-left: 10px;">
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me:</h3>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://instagram.com/jae__yeon__" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
-</h3>
-
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
-<p align="center">
-  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;"> wasid4598@gmail.com</a>
 </p>
 
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">wasid4598@gmail.com</a>
+</p>
 
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
