@@ -2,7 +2,6 @@
 <p align="center" style="line-height: 2.5;">
   더욱 더 성장하고싶은 신입 개발자 최재연입니다.<br/>
 </p>
-<br>
 
 <h3 align="center" style="font-size: 2em; line-height: 3;">Connect with me:
   <a href="https://instagram.com/jae__yeon__" target="blank" style="display: inline-block; margin-left: 10px;">
