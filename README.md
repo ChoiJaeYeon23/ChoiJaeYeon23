@@ -13,8 +13,9 @@
 
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">wasid4598@gmail.com</a>
+  <span style="font-size: 1.2em;">wasid4598@gmail.com</span>
 </p>
+
 
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
