@@ -3,16 +3,16 @@
   더욱 더 성장하고싶은 신입 개발자 최재연입니다.<br/>
 </p>
 
-
-
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://instagram.com/jae__yeon__" target="blank">
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me: 
+  <a href="https://instagram.com/jae__yeon__" target="blank" style="display: inline-block; margin-left: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
-  <span style="font-size: 1.2em;">wasid4598@gmail.com</span>
-</p>
+</h3>
 
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
+<p align="center">
+  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">wasid4598@gmail.com</a>
+</p>
 
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" />
 </p>
-
 
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 배지</h3>
 <p align="center">
