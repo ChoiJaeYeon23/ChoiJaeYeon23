@@ -4,15 +4,12 @@
 </p>
 
 
+
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://instagram.com/jae__yeon__" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
-</p>
-
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <span style="font-size: 1.2em;">wasid4598@gmail.com</span>
 </p>
 
