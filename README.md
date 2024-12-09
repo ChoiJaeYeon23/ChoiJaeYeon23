@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" />
 </p>
 <br>
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 배지</h3>
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 주요 기술 스택</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
