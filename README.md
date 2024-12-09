@@ -3,7 +3,7 @@
   더욱 더 성장하고싶은 신입 개발자 최재연입니다. <br/>
 </p>
 <p align="center" style="line-height:2.5;">
- 제 강점은 러닝커브가 짧고 현대 트렌드를 잘 따라간다는 점 입니다. <br/>
+ 저는 짧은 시간 안에 새로운 것을 배우고, 승부욕과 문제 해결을 향한 열정이 강한 편입니다. <br/>
 </p>
 
 <h3 align="center" style="font-size: 2em; line-height: 3;">Connect with me:
