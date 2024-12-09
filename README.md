@@ -9,11 +9,17 @@
   <a href="https://instagram.com/jae__yeon__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/choijaeyeon/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="choijaeyeon" height="30" width="40" />
+  </a>
+  <a href="mailto:choijaeyeon@example.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="choijaeyeon@example.com" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">🚀 주요 프로젝트</h3>
-- **[Project A](https://github.com/choijaeyeon23/project-a):** React와 Flask를 사용한 웹 애플리케이션.
-- **[Project B](https://github.com/choijaeyeon23/project-b):** AWS Lambda 기반 서버리스 서비스.
+- **[TeeMo](https://github.com/ChoiJaeYeon23/TeeMo):** 비인가 객체 실시간 및 비실시간 모자이크 처리 앱 개발.
+- **[DangYeon](https://github.com/ChoiJaeYeon23/DangYeon):** 커플 앱 개발 프로젝트.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
