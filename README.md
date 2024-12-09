@@ -1,11 +1,25 @@
-<h3 align="center">신입 개발자 최재연입니다.</h3>
+<h2 align="center">✨ 신입 개발자 최재연 ✨</h2>
+<p align="center">
+  안녕하세요! 클린 코드와 창의적인 문제 해결을 지향하는 신입 개발자입니다.<br/>
+  최신 웹 기술과 클라우드 서비스에 관심이 많으며, 지속적인 학습과 성장을 추구합니다. 🚀<br/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/jae__yeon__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/choijaeyeon/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="choijaeyeon" height="30" width="40" />
+  </a>
+  <a href="mailto:choijaeyeon@example.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="choijaeyeon@example.com" height="30" width="40" />
+  </a>
 </p>
+
+<h3 align="left">🚀 주요 프로젝트</h3>
+- **[Project A](https://github.com/choijaeyeon23/project-a):** React와 Flask를 사용한 웹 애플리케이션.
+- **[Project B](https://github.com/choijaeyeon23/project-b):** AWS Lambda 기반 서버리스 서비스.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,6 +46,16 @@
   </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choijaeyeon23&show_icons=true&locale=en" alt="choijaeyeon23" /></p>
+
+<h3 align="left">🔗 배지</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+</p>
+
+<h3 align="center">🎉 Thank you for visiting my profile! 🎉</h3>
