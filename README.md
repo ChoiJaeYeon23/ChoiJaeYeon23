@@ -28,9 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choijaeyeon23&show_icons=true&locale=en" alt="choijaeyeon23" />
-</p>
 
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 배지</h3>
 <p align="center">
