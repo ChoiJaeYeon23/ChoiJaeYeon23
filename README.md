@@ -23,9 +23,6 @@
   </div>
 </div>
 
-
-
-
 <h3 align="left">📊 GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" /></p>
 
@@ -33,9 +30,13 @@
 
 <h3 align="left">🔗 배지</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2 Badge"/>
+  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="RestAPI Badge"/>
 </p>
 
 <h3 align="center">🎉 Thank you for visiting my profile! 🎉</h3>
