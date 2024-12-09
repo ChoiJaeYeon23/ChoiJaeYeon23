@@ -1,6 +1,9 @@
 <h2 align="center"> Jae-Yeon Choi </h2>
 <p align="center" style="line-height: 2.5;">
-  더욱 더 성장하고싶은 신입 개발자 최재연입니다.<br/>
+  더욱 더 성장하고싶은 신입 개발자 최재연입니다. <br/>
+</p>
+<p align="center" style="line-height:2.5;">
+ 제 강점은 러닝커브가 짧고 현대 트렌드를 잘 따라간다는 점 입니다. <br/>
 </p>
 
 <h3 align="center" style="font-size: 2em; line-height: 3;">Connect with me:
@@ -42,4 +45,4 @@
   <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="RestAPI Badge"/>
 </p>
 
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">🎉 Thank you for visiting my profile! 🎉</h3>
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">🎉 방문해주셔서 감사합니다. 🎉</h3>
