@@ -11,6 +11,13 @@
   </a>
 </p>
 
+<h3 align="center" style="font-size: 2em; line-height: 1.8;">📞 연락처</h3>
+<p align="center">
+  <a href="tel:+821012345678" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">📱 전화: +82 10 4044 9606</a><br />
+  <a href="mailto:choijaeyeon@example.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50;">✉️ 이메일: wasid4598@gmail.com</a>
+</p>
+
+
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
   <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 30px; background-color: #f9f9f9;">
