@@ -9,12 +9,6 @@
   <a href="https://instagram.com/jae__yeon__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/choijaeyeon/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="choijaeyeon" height="30" width="40" />
-  </a>
-  <a href="mailto:choijaeyeon@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="choijaeyeon@example.com" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">🚀 주요 프로젝트</h3>
