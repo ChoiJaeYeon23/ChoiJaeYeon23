@@ -14,7 +14,7 @@
 <h3 align="center" style="font-size: 2em; line-height: 3;">📞 연락처:
   <a href="mailto:wasid4598@gmail.com" style="font-size: 1.2em; text-decoration: none; color: #4CAF50; margin-left: 10px;">wasid4598@gmail.com</a>
 </h3>
-
+<br>
 <h3 align="center" style="color: #4CAF50; font-size: 2em; line-height: 1.8;">🚀 주요 프로젝트</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 600px;">
   <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 30px; background-color: #f9f9f9;">
@@ -26,12 +26,12 @@
     <p style="color: #333; font-size: 1.1em; line-height: 1.6;">커플 앱 개발 프로젝트.</p>
   </div>
 </div>
-
+<br>
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" />
 </p>
-
+<br>
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 배지</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
