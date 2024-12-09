@@ -1,4 +1,4 @@
-<h2 align="center">✨ Jae-Yeon Choi ✨</h2>
+<h2 align="center"> Jae-Yeon Choi </h2>
 <p align="center">
   더욱 더 성장하고싶은 신입 개발자 최재연입니다.<br/>
 </p>
