@@ -29,10 +29,7 @@
   </div>
 </div>
 <br>
-<h3 align="center" style="font-size: 2em; line-height: 1.8;">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaeyeon23&show_icons=true&locale=en&layout=compact" alt="choijaeyeon23" />
-</p>
+
 <br>
 <h3 align="center" style="font-size: 2em; line-height: 1.8;">🔗 주요 기술 스택</h3>
 <p align="center">
