@@ -6,11 +6,6 @@
  저는 짧은 시간 안에 새로운 것을 배우고, 승부욕과 문제 해결을 향한 열정이 강한 편입니다. <br/>
 </p>
 
-<h3 align="center" style="font-size: 2em; line-height: 3;">Connect with me:
-  <a href="https://instagram.com/jae__yeon__" target="blank" style="display: inline-block; margin-left: 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jae__yeon__" height="30" width="40" />
-  </a>
-</h3>
 <br>
 
 <h3 align="center" style="font-size: 2em; line-height: 3;">📞 연락처:
